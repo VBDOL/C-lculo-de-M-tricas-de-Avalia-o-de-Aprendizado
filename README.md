@@ -5,4 +5,4 @@ Seguindo o exemplo do algoritmo de binarização apresentado em nossa última au
 
 Por meio da imagem é possível visualizar os dois casos esperados:
 
-![Exemplo de Imagem](baixados (1).png)
+![Exemplo de Imagem](baixados_1.png)
